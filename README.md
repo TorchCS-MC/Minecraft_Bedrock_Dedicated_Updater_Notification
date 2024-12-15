@@ -32,14 +32,6 @@ docker run -d --name bedrock-updater bedrock-updater
 
 ---
 
-## Example Notification
-```
-TorchCS Updater Dedicated
-A new update (Version 1.21.51.02) is available for Windows (Normal)!
-```
-
----
-
 ## License
 This project is licensed under the MIT License.
 
