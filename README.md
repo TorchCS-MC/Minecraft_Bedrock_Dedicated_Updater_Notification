@@ -12,7 +12,7 @@ This project automatically checks for new versions of the **Minecraft Bedrock De
 
 ---
 
-## Installation & Usage (Docker Only)
+## Installation & Usage
 
 ### 1. Clone the Repository
 ```bash
